@@ -57,3 +57,6 @@ class Form{
 
     }
 }
+setTimeout(() =>{
+    console.log('Hi!');
+}, 5000)
